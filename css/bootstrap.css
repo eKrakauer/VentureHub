@@ -1590,7 +1590,7 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 768px;
   }
 }
 @media (min-width: 992px) {
@@ -2969,7 +2969,7 @@ select[multiple].form-group-lg .form-control {
   min-height: 27px;
 }
 .form-horizontal .form-group {
-  margin-right: -15px;
+  margin-right: -200px;
   margin-left: -15px;
 }
 @media (min-width: 768px) {

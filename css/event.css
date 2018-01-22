@@ -78,15 +78,15 @@ h6 {
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 65px;
 }
 
 h2 {
-    font-size: 45px;
+    font-size: 50px;
 }
 
 h3 {
-    font-size: 35px;
+    font-size: 40px;
 }
 
 h4 {
@@ -295,10 +295,6 @@ p,
 img.resize {
    max-width:70%;
    max-height:70%;
-}
-
-.aux {
-    color: #A020F0;
 }
 
 .dropdown-menu {
@@ -661,6 +657,7 @@ img.resize {
     padding: 30px 0;
 }
 
+
 .event_when {
     font-size: 22px;
     font-weight: bold;
@@ -670,6 +667,10 @@ img.resize {
 
 .event_where {
     color: rgba(255, 255, 255, 0.8);
+}
+
+.event_where p {
+    font-size: 50px;
 }
 
 .cta_urgency {
@@ -1254,7 +1255,7 @@ img.resize {
 
 .atc-style-theme .atcb-item.hover,
 .atc-style-theme .atcb-item:hover {
-    background: #A020F0;
+    background: #0099cc;
 }
 /* ================================================
    Registration Form
@@ -1492,7 +1493,7 @@ img.resize {
 }
 
 .timeline-content .date {
-    float: left;
+    float: center;
     padding: 0;
     opacity: .7;
     font-weight: 600;
